@@ -6,6 +6,10 @@ public class FirstClass {
 		System.out.println("rajasekar");
 		System.out.println("rajasekar1");
 		
+		String str = "slot-u1";
+		String str1=str.substring(5);
+		System.out.println(str1);
+		
 	}
 
 }
